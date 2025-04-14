@@ -6,7 +6,9 @@
 
 **The repository of TrafficBASS, a lightweight endpoint APT detection framework.**
 
+<div align="center">
 <img src="[https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/Background.png]" alt="Background" style="zoom:25%;" />
+</div>  
 <p align="center">Fig. 1 Background</p>
 
 
