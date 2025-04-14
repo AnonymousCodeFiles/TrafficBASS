@@ -7,7 +7,7 @@
 **The repository of TrafficBASS, a lightweight endpoint APT detection framework.**
 
 <div align="center">
-<img src="[https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/Background.png](https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/Background.png)" alt="Background" style="zoom:25%;" />
+<img src="[https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/Background.png]" alt="Background" style="zoom:25%;" />
 </div>  
 
 
@@ -40,7 +40,7 @@ __Modules of TrafficBASS include:__
 
 
 <div align="center">
-<img src="[https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/TrafficBASS.png](https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/TrafficBASS.png)" alt="TrafficBASS" style="zoom:25%;" />
+<img src="[https://github.com/AnonymousCodeFiles/TrafficBASS/blob/main/images/TrafficBASS.png])" alt="TrafficBASS" style="zoom:25%;" />
 </div>  
 
 
