@@ -26,7 +26,7 @@ As illustrated in Figure 1,TrafficBASS tackles the challenges of APT long-tail d
 
 __Modules of TrafficBASS include:__
 
-* __Learnable Feature Projection (LFP) __.
+* **__Learnable Feature Projection (LFP) __**.
   This module dynamically integrates statistical and temporal features through adaptive feature adjustment mechanisms.
 * __Boundary-Aware Sampling Strategy (BASS)__.
   This module effectively identifies the most informative samples through dynamic scoring, elastic memory banking, and adversarial expansion augmentation.
