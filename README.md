@@ -87,14 +87,8 @@ We use the open source  [USTC-TFC](https://github.com/yungshenglu/USTC-TK2016 "U
 You need to use split TCP pcaps into flow sessions. Then, using flowcontainer tool to extract time series features with the maximum packet length at 1600 and set the minimum session length to 20.
 
 ```shell
-# run pcap2TCP.py to filliter TCP flows
-# modify: theh path of 'path_pcap', 'path_wireshark' and 'path_save_pcap' to generate TCP flows.
-python pcap2TCP.py
-# Extract side-channel features from flow sessions
-python session2features.py
 # Generate train, test and pre-training data
-python train_test_data.py
--> tensor(train, test), txt(pre-training)
+python s2_feature2npz.py
 ```
 
 
