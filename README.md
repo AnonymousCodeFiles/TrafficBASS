@@ -97,7 +97,7 @@ python s2_feature2npz.py
 
 ## Pre-training
 
-If you want to train a new TrafficBASS in your own scenario, you should firstly run the `s2_feature2npz.py` to generate pre-training data (`file.npz`) by your own network traffic. And then put the generated `file.npz` into the training folder, and create a new folder to save `vocab`, `config`,`model.safetensors`  and `training_args.bin`. Finally, set the `Config` and run the `pre-training.py` for TrafficBASS pre-training.
+If you want to train a new TrafficBASS in your own scenario, you should firstly run the `s2_feature2npz.py` to generate pre-training data (`file.npz`) by your own network traffic. And then put the generated `file.npz` into the training folder, and create a new folder to save `vocab`, `config`,`model.safetensors`  and `training_args.bin`. Finally, set the `Config` and run the `s52_al_train_cache.py` for TrafficBASS fine-tuning.
 
 ```python
 # Create new folder to save pre-traing model
