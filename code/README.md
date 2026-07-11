@@ -279,19 +279,6 @@ results/
 └── index/            # AL strategy state cache
 ```
 
-## Citation
-
-If this project is helpful for your research, please cite:
-
-```bibtex
-@article{plm_al_traffic,
-  title={TODO: Paper Title},
-  author={TODO: Authors},
-  journal={TODO: Journal},
-  year={2025}
-}
-```
-
 ## License
 
 TODO: Add license information
