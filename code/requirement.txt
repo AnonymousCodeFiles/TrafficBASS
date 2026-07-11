@@ -1,1 +1,21 @@
+torch>=1.10.0
+transformers>=4.20.0
+peft>=0.4.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+numpy>=1.21.0
+pandas>=1.3.0
+tqdm>=4.62.0
+wandb>=0.12.0
+psutil>=5.8.0
+joblib>=1.1.0
+seaborn>=0.11.0
+matplotlib>=3.4.0
+openpyxl>=3.0.0
+safetensors>=0.3.0
 
+# Optional dependencies (install as needed)
+# bitsandbytes>=0.39.0      # Only needed for Q8BERT quantized pre-training
+# scapy>=2.5.0              # Only needed for s1_merge_pcap.py
+# flowcontainer>=0.1.0      # Only needed for PCAP feature extraction
