@@ -278,7 +278,3 @@ results/
 ├── models/           # Model checkpoints
 └── index/            # AL strategy state cache
 ```
-
-## License
-
-TODO: Add license information
